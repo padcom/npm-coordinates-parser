@@ -1,0 +1,24 @@
+{
+  "name": "@padcom/npm-coordinates-parser",
+  "version": "0.0.1",
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "npm"
+  ],
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/padcom/coordinates-parser"
+  },
+  "bugs": {
+    "url": "https://github.com/padcom/coordinates-parser/issues"
+  },
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/padcom"
+  },
+  "scripts": {
+    "prepublishOnly": "npm install"
+  }
+}
